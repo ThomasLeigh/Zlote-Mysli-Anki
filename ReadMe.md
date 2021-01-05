@@ -2,17 +2,17 @@ Złote Myśli.
 =======================
 
 > **najnowsza wersja (plik *„Złote Myśli.apkg”*):**   
-https://github.com/ThomasLeigh/PoszerzajSlownictwo
+https://github.com/ThomasLeigh/Zlote-Mysli-Anki
 
 > historia aktualizacji:   
-https://github.com/ThomasLeigh/PoszerzajSlownictwo/commits/master
+https://github.com/ThomasLeigh/Zlote-Mysli-Anki/commits/master
 
 > „kamienie milowe”:  
-**v.0.1 - 17.01.2021 | 77 cytatów.**  
-https://github.com/ThomasLeigh/PoszerzajSlownictwo/releases
+**v.0.1 - 05.01.2021 | 77 cytatów.**  
+https://github.com/ThomasLeigh/Zlote-Mysli-Anki/releases
 
 > Przydatne informacje (metoda nauki, program Anki, itp.):    
-https://github.com/ThomasLeigh/PoszerzajSlownictwo
+https://github.com/ThomasLeigh/Zlote-Mysli-Anki
 
 
 
@@ -37,7 +37,7 @@ Ponadto może się przydać:
 
 
 ## Aktualizacje.
-**Baza jest systematycznie rozbudowywana oraz udoskonalana**: **_co trzy miesiące_** ^(patrz historia wydań poniżej)^ możesz spodziewać się kolejnego wydania, zawierającego tak nowe słówka - jak i ewentualne poprawki/ulepszenia. Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach [niniejszej strony na *GitHub*][6], jak również w [katalogu baz *Ankiego*][5].
+Przewiduję, iż niniejsza baza będzie aktualizowana raczej spontanicznie :) . Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach [niniejszej strony na *GitHub*][6], jak również w [katalogu baz *Ankiego*][5].
 
 
 ## Kontakt
@@ -46,7 +46,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 
 ## Historia wydań („kamienie milowe”):
 1. v.0.1  
-07.01.2021 | 77 cytatów;
+05.01.2021 | 77 cytatów;
 
 
 
@@ -67,8 +67,8 @@ Pozdrawiam oraz życzę miłej zabawy!
 
 [4]: http://moliumpodcast.blogspot.com/2015/10/poszerzaj-swoj-zasob-sownictwa-z-anki.html#post
 
-[5]: https://ankiweb.net/shared/decks/poszerzaj%20s%C5%82ownictwo
+[5]: https://ankiweb.net/shared/decks/Z%C5%82ote%20My%C5%9Bli
 	
-[6]: https://github.com/ThomasLeigh/PoszerzajSlownictwo/releases
+[6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/releases
 
 [7]: https://apps.ankiweb.net#download
