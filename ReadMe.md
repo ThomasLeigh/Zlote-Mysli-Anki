@@ -19,7 +19,7 @@ https://github.com/ThomasLeigh/Zlote-Mysli-Anki
 ## Opis:
 Lubię gromadzić cytaty („złote myśli”) które uznaję za cenne, wartościowe, a przez to mogące praktycznie pomagać mi w życiu, przypominać o tym co ważne, itp. Zależy mi by jak najczęściej mieć je żywe w świadomości, stąd też otaczam się nimi na co dzień - jako losowe cytaty wyświetlane na pulpicie smartfona, w stopce maili, czy przeglądarce stron. Baza Ankiego, to kolejny krok w tym duchu: by jeszcze bardziej przyswoić wszystkie myśli, które uznaję za tego warte.
 
-Podobnież do bliźniaczej bazy terminów z różnych dziedzin, tak i niniejszy zbiór cytatów jest całkowicie subiektywny, zawierając tylko moje ulubione myśli. Nie jest to jednak zbiór kompletny, gdyż postanowiłem ujmować w nim tylko te spośród nich, które są względnie zwięzłe (by nadal można było możliwie przystępnie nauczyć się ich na pamięć).
+Podobnież do bliźniaczej 	[bazy terminów z różnych dziedzin][8], tak i niniejszy zbiór cytatów jest **całkowicie subiektywny**, zawierając tylko moje ulubione myśli. Nie jest to jednak zbiór kompletny, gdyż postanowiłem ujmować w nim tylko te spośród nich, które są **względnie zwięzłe** (by nadal można było możliwie przystępnie nauczyć się ich na pamięć).
 
 Pomimo subiektywnego charakteru kolekcji noszę nadzieję, iż będzie pełnił pozytywną rolę w rozpowszechnianiu mądrości wokół nas :) .
 
@@ -72,3 +72,5 @@ Pozdrawiam oraz życzę miłej zabawy!
 [6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/releases
 
 [7]: https://apps.ankiweb.net#download
+
+[8]: https://github.com/ThomasLeigh/PoszerzajSlownictwo
