@@ -68,7 +68,11 @@ Pozdrawiam oraz życzę miłej zabawy!
 
 [5]: https://ankiweb.net/shared/decks/Z%C5%82ote%20My%C5%9Bli
 	
+<<<<<<< HEAD
 [6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/raw/master/Z%C5%82ote%20My%C5%9Bli.apkg
+=======
+[6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/blob/master/Z%C5%82ote%20My%C5%9Bli.apkg
+>>>>>>> 802ffd30e741cfd0c4b641675568217d177f51e3
 
 [7]: https://apps.ankiweb.net#download
 
