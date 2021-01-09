@@ -25,7 +25,7 @@ Pomimo subiektywnego charakteru kolekcji noszę nadzieję, iż będzie pełnił 
 
 ## Instalacja.
 1. Pobierz i zainstaluj ([z tej strony][7]) program *Anki* na Twoim komputerze (*Windows*, *GNU/Linux* lub *Mac*).
-2. Pobierz najnowszą wersję bazy *„Złote Myśli”* (plik *„Złote Myśli.apkg”* [z tej strony][6]).
+2. Pobierz najnowszą wersję bazy *„Złote Myśli”* (plik *„Złote Myśli.apkg”* [z tej strony][6] - kliknij przycisk “Download” w prawej dolnej części).
 3. Otwórz program *Anki* na komputerze i wybierz z menu *Plik ➜ Importuj*.
 4. Zlokalizuj pobrany plik *„Złote Myśli.apkg”*, zaznacz go i kliknij przycisk *„Otwórz”*. Talia powinna zostać zaimportowana.
 
@@ -68,11 +68,7 @@ Pozdrawiam oraz życzę miłej zabawy!
 
 [5]: https://ankiweb.net/shared/decks/Z%C5%82ote%20My%C5%9Bli
 	
-<<<<<<< HEAD
 [6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/raw/master/Z%C5%82ote%20My%C5%9Bli.apkg
-=======
-[6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/blob/master/Z%C5%82ote%20My%C5%9Bli.apkg
->>>>>>> 802ffd30e741cfd0c4b641675568217d177f51e3
 
 [7]: https://apps.ankiweb.net#download
 
