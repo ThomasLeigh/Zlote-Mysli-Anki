@@ -9,7 +9,6 @@ https://github.com/ThomasLeigh/Zlote-Mysli-Anki/commits/master
 
 > „kamienie milowe”:  
 **v.0.1 - 05.01.2021 | 77 cytatów.**  
-https://github.com/ThomasLeigh/Zlote-Mysli-Anki/releases
 
 > Przydatne informacje (metoda nauki, program Anki, itp.):    
 https://github.com/ThomasLeigh/Zlote-Mysli-Anki
