@@ -36,7 +36,7 @@ Ponadto może się przydać:
 
 
 ## Aktualizacje.
-Przewiduję, iż niniejsza baza będzie aktualizowana raczej spontanicznie :) . Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach [niniejszej strony na *GitHub*][6], jak również w [katalogu baz *Ankiego*][5].
+Przewiduję, iż niniejsza baza będzie aktualizowana raczej spontanicznie :) . Najnowszą aktualnie dostępną wersję znajdziesz zawsze na łamach [niniejszej strony na *GitHub*][6b], jak również w [katalogu baz *Ankiego*][5].
 
 
 ## Kontakt
@@ -69,6 +69,8 @@ Pozdrawiam oraz życzę miłej zabawy!
 [5]: https://ankiweb.net/shared/decks/Z%C5%82ote%20My%C5%9Bli
 	
 [6]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki/raw/master/Z%C5%82ote%20My%C5%9Bli.apkg
+
+[6b]: https://github.com/ThomasLeigh/Zlote-Mysli-Anki
 
 [7]: https://apps.ankiweb.net#download
 
